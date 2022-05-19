@@ -8,11 +8,11 @@ Here's the link for the API being used 🔗
 
 ![Image](/src/img/crypto-tracker.png)
 
-### Technology Stack
-1. HTML
-2. Materialize CSS
-3. JavaScript
-4. JSON
+### Tech Stack
+- HTML
+- Materialize CSS
+- JavaScript
+- JSON
 ______________________________________________________________________________________________________________________________
 ### How to Install in Chrome?
 
