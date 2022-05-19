@@ -3,8 +3,8 @@ A Chrome browser extension which displays the top Ten cryptocurrencies based on 
 
 It makes use of CoinGecko's API to fetch and display data.
 
-Here's the link 🔗
-[API Link](https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&per_page=100&page=1&sparkline=false)
+Here's the link for the API being used 🔗
+[Link](https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&per_page=100&page=1&sparkline=false)
 
 ![Image](/src/img/crypto-tracker.png)
 
